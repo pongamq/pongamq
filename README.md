@@ -12,5 +12,5 @@ The application creates all required tables, functions, and triggers to store me
 - 📊 Works like a message queue directly inside PostgreSQL.
 
 ### Requirements
-- Golang 1.20+
-- PostgreSQL 13+
+- Golang
+- PostgreSQL
